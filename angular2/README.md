@@ -17,3 +17,17 @@ Artigos para serem lidos para ajudar nos estudos!
 * https://medium.com/game-start/o-game-designer-como-curador-fce19c5cf63b
 
 * https://medium.com/@MB.Santiago.jnr/redesenhando-um-curso-da-caelum-8f43e3c53f5a
+
+# Vídeos
+
+### ng2 Dashboard
+
+* https://www.youtube.com/watch?v=v6DBckux6lM
+
+* https://www.youtube.com/watch?v=c3M3NQtFyqM
+
+* https://www.youtube.com/watch?v=Lo7K9be22_A
+
+* https://www.youtube.com/watch?v=tugxtI8yMTY
+
+* https://www.youtube.com/watch?v=E5I1K-VFC_E
